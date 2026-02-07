@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+.env
+cars_details_merges.csv
+car_price_model.pkl
